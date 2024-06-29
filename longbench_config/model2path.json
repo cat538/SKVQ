@@ -1,0 +1,24 @@
+{
+    "llama2-7b": "YOUR_PATH_TO/llama2-7b",
+    "llama2-13b": "YOUR_PATH_TO/llama2-13b",
+    "llama2-7b-80k": "YOUR_PATH_TO/llama2-7b-80k",
+    "llama2-7b-chat": "YOUR_PATH_TO/llama2-7b-chat",
+    "llama2-13b-chat": "YOUR_PATH_TO/llama2-13b-chat",
+    "llama2-7b-chat-4k": "YOUR_PATH_TO/llama2-7b-chat",
+    "llama2-13b-chat-4k": "YOUR_PATH_TO/llama2-13b-chat",
+
+    "llama2-70b": "YOUR_PATH_TO/Llama-2-70b-hf",
+    "llama3-70b-instruct": "YOUR_PATH_TO/Meta-Llama-3-70B-Instruct",
+
+    "internlm2-7b-32k": "YOUR_PATH_TO/interlm2-7b-chat",
+    "mistral-7b": "YOUR_PATH_TO/.cache/huggingface/hub/models--mistralai--Mistral-7B-v0.1/snapshots/26bca36bde8333b5d7f72e9ed20ccda6a618af24",
+    "mistral-7b-instruct": "YOUR_PATH_TO/mistral-7b-instruct-v0.2",
+    "mistral-7b-instruct-v0.2": "YOUR_PATH_TO/mistral-7b-instruct-v0.2",
+    "longchat-v1.5-7b-32k": "YOUR_PATH_TO/.cache/huggingface/hub/models--lmsys--longchat-7b-v1.5-32k/snapshots/16deb633ef4d6a18d5750239edc5a85ffeaf3918",
+    "vicuna-v1.5-7b-16k": "YOUR_PATH_TO/.cache/huggingface/hub/models--lmsys--vicuna-7b-v1.5-16k/snapshots/c8df3ca4436a3bce5c4b5877e0117032081852b4",
+
+    "xgen-7b-8k": "Salesforce/xgen-7b-8k-inst",
+    "chatglm2-6b": "THUDM/chatglm2-6b",
+    "chatglm2-6b-32k": "THUDM/chatglm2-6b-32k",
+    "chatglm3-6b-32k": "THUDM/chatglm3-6b-32k"
+}
